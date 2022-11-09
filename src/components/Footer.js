@@ -1,9 +1,10 @@
 
 import React from 'react';
 
-
 function Footer() {
     return (
+
+      
  /* <!-- Footer --> */
  <footer className="sticky-footer bg-white">
  <div className="container my-auto">
@@ -13,6 +14,9 @@ function Footer() {
  </div>
 </footer>
 /* <!-- End of Footer --> */
+   
+
+   
     )
 }
 

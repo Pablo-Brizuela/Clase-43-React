@@ -9,6 +9,7 @@ import jordanWalke from "../assets/images/jordan-walke.png";
 function ContentWrapper() {
     return (
   /* <!-- Content Wrapper --> */
+  
   <div id="content-wrapper" className="d-flex flex-column">
   {/* <!-- Main Content --> */}
   <div id="content">
@@ -269,6 +270,8 @@ function ContentWrapper() {
   </footer>
   {/* <!-- End of Footer --> */}
 </div>
+
+
 /* <!-- End of Content Wrapper --> */
 
     )

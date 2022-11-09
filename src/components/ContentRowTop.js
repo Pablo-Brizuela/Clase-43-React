@@ -1,11 +1,11 @@
 import React from 'react';
 import mandalorian from "../assets/images/mandalorian.jpg";
-
+import "../assets/css/app.css"
 
 function ContentRowTop() {
     return (
 
-        
+      
  /* <!-- Content Row Top --> */
  <div className="container-fluid">
  <div className="d-sm-flex align-items-center justify-content-between mb-4">
@@ -188,6 +188,7 @@ function ContentRowTop() {
    </div>
  </div>
 </div>
+
 
 /* <!--End Content Row Top--> */
 

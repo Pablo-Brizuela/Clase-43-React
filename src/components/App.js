@@ -7,11 +7,11 @@ import ContentWrapper from './ContentWrapper';
 import Footer from './Footer';
 import SideBar from './SideBar';
 import TopBar from './TopBar';
-
+import "../assets/css/app.css"
 
 function App(){
   return (
-    <div id="wrapper">
+    <div >
         <ContentRowTop />
         <ContentWrapper />
         <Footer />
