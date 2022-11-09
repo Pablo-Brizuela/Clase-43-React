@@ -1,7 +1,7 @@
 
 import React from 'react';
-import mandalorian from "../assets/images/mandalorian.png";
-import jordanWalke from "../assets/images/jordan-Walke.png";
+import mandalorian from "../assets/images/mandalorian.jpg";
+import jordanWalke from "../assets/images/jordan-walke.png";
 
 
 

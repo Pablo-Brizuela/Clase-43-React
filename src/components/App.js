@@ -1,6 +1,6 @@
 // import React from "react";
 // import logo from "./logo.svg";
-import "./assets/css/app.css";
+
 import React from 'react';
 import ContentRowTop from './ContentRowTop';
 import ContentWrapper from './ContentWrapper';

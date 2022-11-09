@@ -1,6 +1,6 @@
 
 import React from 'react';
-import jordanWalke from "../assets/images/jordan-Walke.png";
+import jordanWalke from "../assets/images/jordan-walke.png";
 
 
 function TopBar (){
