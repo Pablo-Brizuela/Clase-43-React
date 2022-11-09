@@ -2,9 +2,7 @@
 // import logo from "./logo.svg";
 import "./assets/css/app.css";
 
-import jordanWalke from "./assets/images/jordan-walke.png";
-import mandalorian from "./assets/images/mandalorian.jpg";
-import logoDH from "./assets/images/logo-DH.png";
+
 
 function App() {
   return (
