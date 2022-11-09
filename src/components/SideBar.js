@@ -2,7 +2,7 @@ import React from 'react';
 import logoDH from "../assets/images/logo-DH.png";
 
 
-function Sidebar() {
+function SideBar() {
     return (
       <div id="wrapper">
         {/* <!-- Sidebar --> */}
@@ -69,4 +69,4 @@ function Sidebar() {
         )
         }
 
-        export default Sidebar;
+        export default SideBar;
