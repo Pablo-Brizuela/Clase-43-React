@@ -11,12 +11,12 @@ import "../assets/css/app.css"
 
 function App(){
   return (
-    <div >
-        <ContentRowTop />
-        <ContentWrapper />
-        <Footer />
+    <div  id="wrapper">
         <SideBar />
-        <TopBar />
+        <ContentWrapper />
+        
+        
+        
     </div>
   )
 
